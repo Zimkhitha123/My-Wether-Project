@@ -109,7 +109,7 @@
   let currentDate = new Date();
   
   currentDateELement.innerHTML = formatDate(currentDate);
-  </script>
+  </script> 
   <script src="Index1.js"></script>
 </html>
 
